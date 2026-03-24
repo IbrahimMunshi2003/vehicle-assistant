@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-lt$oepx%^7xd@u-&zxy9ym!7&q=84jz&ve^7k6zabvsw2b7ckl
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["vehicle-assistant-fize.onrender.com"]
 
 
 # Application definition
